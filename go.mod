@@ -5,6 +5,8 @@ go 1.21
 replace (
 	// https://github.com/cosmos/cosmos-sdk/blob/v0.47.3/go.mod#L171-L182
 	github.com/99designs/keyring => github.com/cosmos/keyring v1.2.0
+	//github.com/datachainlab/ethereum-ibc-relay-chain v0.3.2 => ../ethereum-ibc-relay-chain-fork3
+	github.com/datachainlab/ethereum-ibc-relay-chain v0.3.2 => github.com/dai1975/ethereum-ibc-relay-chain v0.0.0-20240704093333-cb1b4ecf54f6
 	github.com/syndtr/goleveldb => github.com/syndtr/goleveldb v1.0.1-0.20210819022825-2ae1ddf74ef7
 )
 
