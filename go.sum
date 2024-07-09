@@ -421,6 +421,8 @@ github.com/datachainlab/ibc-hd-signer v0.1.0 h1:dmnFTAwFpl0m7Lx6+b+N/rrNpHQnXpyJ
 github.com/datachainlab/ibc-hd-signer v0.1.0/go.mod h1:wUbLb2EryMCY+GfEsziU0T032Gch04jmrN0D4XGAfOI=
 github.com/datachainlab/ibc-mock-client v0.4.1 h1:FQfyFOodgnchCIicpS7Vzji3yxXDe4Jl5hmE5Vz7M1s=
 github.com/datachainlab/ibc-mock-client v0.4.1/go.mod h1:2wGddiF2uHFhiMBpSskzKT/wA8naXi5DLoXt1KEZA1o=
+github.com/datachainlab/lcp-go v0.2.8 h1:Bd6w4CetoUibPuuwWJ75XT6Q/s69gcXfvUS5ffnpYmg=
+github.com/datachainlab/lcp-go v0.2.8/go.mod h1:0ivRb4qUiZz5UQxsbRKygQyFz0XC6TIC6YpEUdOc1So=
 github.com/davecgh/go-spew v0.0.0-20171005155431-ecdeabc65495/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
@@ -923,6 +925,8 @@ github.com/nxadm/tail v1.4.8 h1:nPr65rt6Y5JFSKQO7qToXr7pePgD6Gwiw05lkbyAQTE=
 github.com/nxadm/tail v1.4.8/go.mod h1:+ncqLTQzXmGhMZNUePPaPqPvBxHAIsmXswZKocGu+AU=
 github.com/oasisprotocol/curve25519-voi v0.0.0-20230904125328-1f23a7beb09a h1:dlRvE5fWabOchtH7znfiFCcOvmIYgOeAS5ifBXBlh9Q=
 github.com/oasisprotocol/curve25519-voi v0.0.0-20230904125328-1f23a7beb09a/go.mod h1:hVoHR2EVESiICEMbg137etN/Lx+lSrHPTD39Z/uE+2s=
+github.com/oasisprotocol/oasis-core/go v0.2201.11 h1:6CVh5iGY8c02OlsQi+FRExA9GdWdhO+5R7K35fE1ykI=
+github.com/oasisprotocol/oasis-core/go v0.2201.11/go.mod h1:n597yiZ7LuBiX04XrVdFegnosHxjDiKl1TacPDmSkNU=
 github.com/oklog/oklog v0.3.2/go.mod h1:FCV+B7mhrz4o+ueLpx+KqkyXRGMWOYEvfiXtdGtbWGs=
 github.com/oklog/run v1.0.0/go.mod h1:dlhp/R75TPv97u0XWUtDeV/lRKWPKSdTuV0TZvrmrQA=
 github.com/oklog/run v1.1.0 h1:GEenZ1cK0+q0+wsJew9qUg/DyD8k3JzYsZAi5gYi2mA=

@@ -11,6 +11,7 @@ replace (
 require (
 	github.com/datachainlab/ethereum-ibc-relay-chain v0.3.5
 	github.com/datachainlab/ibc-hd-signer v0.1.0
+	github.com/datachainlab/lcp-go v0.2.8
 	github.com/hyperledger-labs/yui-relayer v0.5.4
 )
 
@@ -155,6 +156,7 @@ require (
 	github.com/mmcloughlin/addchain v0.4.0 // indirect
 	github.com/mtibben/percent v0.2.1 // indirect
 	github.com/oasisprotocol/curve25519-voi v0.0.0-20230904125328-1f23a7beb09a // indirect
+	github.com/oasisprotocol/oasis-core/go v0.2201.11 // indirect
 	github.com/oklog/run v1.1.0 // indirect
 	github.com/pelletier/go-toml/v2 v2.1.0 // indirect
 	github.com/petermattis/goid v0.0.0-20230904192822-1876fd5063bc // indirect
