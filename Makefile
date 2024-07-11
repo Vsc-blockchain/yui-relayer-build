@@ -1,3 +1,3 @@
 .PHONY: yrly
 yrly:
-	go build -o build/yrly ./relayer
+	go build -tags customcert -o build/yrly ./relayer
